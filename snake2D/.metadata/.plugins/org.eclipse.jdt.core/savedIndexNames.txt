@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+D:\eclipse\workfolder3s03\snake2D\.metadata\.plugins\org.eclipse.jdt.core
+310209456.index
